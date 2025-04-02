@@ -1,0 +1,52 @@
+Uri: https://nuton-pwa.vercel.app/
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\index-1.htm
+Content Type: text/html
+
+Uri: https://nuton-pwa.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\favicon-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://nuton-pwa.vercel.app/logo192.png
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\logo192-1.png
+Content Type: image/png
+
+Uri: https://nuton-pwa.vercel.app/manifest.json
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\manifest-1.json
+Content Type: application/json
+
+Uri: https://nuton-pwa.vercel.app/static/css/main.e4c801d7.css
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\css\main.e4c801d7-1.css
+Content Type: text/css
+
+Uri: https://nuton-pwa.vercel.app/static/js/main.0ef7bc9a.js
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\js\main.0ef7bc9a-1.js
+Content Type: application/javascript
+
+Uri: https://nuton-pwa.vercel.app/static/media/Lato-Bold.636be8de934918e38ed9.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\Lato-Bold.636be8de934918e38ed9-1.ttf
+Content Type: font/ttf
+
+Uri: https://nuton-pwa.vercel.app/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\Lato-Regular.9d883d540ee2b4de8024-1.ttf
+Content Type: font/ttf
+
+Uri: https://nuton-pwa.vercel.app/static/media/LeagueSpartan-Bold.c311dbd01e80ebe50942.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\LeagueSpartan-Bold.c311dbd01e80ebe50942-1.ttf
+Content Type: font/ttf
+
+Uri: https://nuton-pwa.vercel.app/static/media/LeagueSpartan-Light.354c1d0b29bf33854f9c.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\LeagueSpartan-Light.354c1d0b29bf33854f9c-1.ttf
+Content Type: font/ttf
+
+Uri: https://nuton-pwa.vercel.app/static/media/LeagueSpartan-Medium.a8c3b9360d69edbcf13e.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\LeagueSpartan-Medium.a8c3b9360d69edbcf13e-1.ttf
+Content Type: font/ttf
+
+Uri: https://nuton-pwa.vercel.app/static/media/LeagueSpartan-Regular.09958bb07a94a6a4f1bb.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\LeagueSpartan-Regular.09958bb07a94a6a4f1bb-1.ttf
+Content Type: font/ttf
+
+Uri: https://nuton-pwa.vercel.app/static/media/LeagueSpartan-SemiBold.eb71c3a8fa3a8659a3f7.ttf
+File Name: C:\Downloaded Web Sites\nuton-pwa.vercel.app\static\media\LeagueSpartan-SemiBold.eb71c3a8fa3a8659a3f7-1.ttf
+Content Type: font/ttf
+
